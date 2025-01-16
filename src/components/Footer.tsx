@@ -12,9 +12,9 @@ export function Footer() {
 				<div className="flex w-[30vw] md:translate-x-16 flex-col items-center justify-center max-md:w-fit">
 					<img src={logo} alt="logo" className="h-10" />
 					<p className="pt-4 text-2xl text-slate-100 text-center max-md:text-xl">
-						Google Developer Student Clubs
+						Google Developer Groups
 					</p>
-					<span className="text-xl text-slate-300 max-md:text-lg">RCOEM</span>
+					<span className="text-xl text-slate-300 max-md:text-lg">On Campus RBU</span>
 				</div>
 				<div className="flex w-[50vw] flex-col items-start justify-center gap-4 max-md:w-[95vw] max-md:py-8">
 					<div className="flex items-center">

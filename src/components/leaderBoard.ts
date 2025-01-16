@@ -1,11 +1,11 @@
 export const leaderBoardData = [
     {
         "name": "Mayur Narendra Kawale",
-        "skills": 9,
-        "trackOne": 8,
-        "trackTwo": 1,
+       
+        "trackOne": 8000,
+        
         "color": "blue",
-        "latestSkill": 1696723200000
+        
     },
     {
         "name": "Pratyush Bhatt",
@@ -1152,7 +1152,7 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Gunangi Yashwantrao Bhagat",
+        "name": "gdg_Thesambhar's",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
