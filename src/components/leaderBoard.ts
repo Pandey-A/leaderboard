@@ -186,7 +186,7 @@ export const leaderBoardData = [
   
       "name": "gdg_encoders",
   
-      "trackOne": 2613,
+      "trackOne": 13,
   
       "color": "blue"
   
