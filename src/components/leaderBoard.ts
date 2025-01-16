@@ -765,7 +765,7 @@ export const leaderBoardData = [
 
     "name": "gdg_badcoders",
 
-    "trackOne": 2580,
+    "trackOne": 30,
 
     "color": "blue"
 
