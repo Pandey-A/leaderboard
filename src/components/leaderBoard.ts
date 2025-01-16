@@ -150,7 +150,7 @@ export const leaderBoardData = [
   
       "name": "gdg_team",
   
-      "trackOne": 1920,
+      "trackOne": 2920,
   
       "color": "blue"
   
@@ -162,7 +162,7 @@ export const leaderBoardData = [
   
       "name": "bhuvneshtesting",
   
-      "trackOne": 1824,
+      "trackOne": 2824,
   
       "color": "blue"
   
@@ -174,7 +174,7 @@ export const leaderBoardData = [
   
       "name": "efddsddfd",
   
-      "trackOne": 1697,
+      "trackOne": 2697,
   
       "color": "blue"
   
@@ -186,7 +186,7 @@ export const leaderBoardData = [
   
       "name": "gdg_encoders",
   
-      "trackOne": 1613,
+      "trackOne": 2613,
   
       "color": "blue"
   
@@ -198,7 +198,7 @@ export const leaderBoardData = [
   
       "name": "gdg_PookerCoder",
   
-      "trackOne": 1531,
+      "trackOne": 2531,
   
       "color": "blue"
   
@@ -210,7 +210,7 @@ export const leaderBoardData = [
   
       "name": "gdg_voidwreckers",
   
-      "trackOne": 1435,
+      "trackOne": 2435,
   
       "color": "blue"
   
@@ -222,7 +222,7 @@ export const leaderBoardData = [
   
       "name": "mr",
   
-      "trackOne": 1411,
+      "trackOne": 2411,
   
       "color": "blue"
   
@@ -234,7 +234,7 @@ export const leaderBoardData = [
   
       "name": "gdg_NotWinners",
   
-      "trackOne": 1386,
+      "trackOne": 2386,
   
       "color": "blue"
   
@@ -246,7 +246,7 @@ export const leaderBoardData = [
   
       "name": "gdg_logiclords",
   
-      "trackOne": 1382,
+      "trackOne": 2382,
   
       "color": "blue"
   
@@ -258,7 +258,7 @@ export const leaderBoardData = [
   
       "name": "gdg_codeblock",
   
-      "trackOne": 1368,
+      "trackOne": 2368,
   
       "color": "blue"
   
@@ -270,7 +270,7 @@ export const leaderBoardData = [
   
       "name": "Elementals",
   
-      "trackOne": 1323,
+      "trackOne": 2323,
   
       "color": "blue"
   
@@ -282,7 +282,7 @@ export const leaderBoardData = [
   
       "name": "gdg_asyncwizards",
   
-      "trackOne": 1318,
+      "trackOne": 2318,
   
       "color": "blue"
   
@@ -294,7 +294,7 @@ export const leaderBoardData = [
   
       "name": "gdg_spidey_techies",
   
-      "trackOne": 1315,
+      "trackOne": 2315,
   
       "color": "blue"
   
@@ -306,7 +306,7 @@ export const leaderBoardData = [
   
       "name": "gdg_Devin",
   
-      "trackOne": 1315,
+      "trackOne": 2315,
   
       "color": "blue"
   
@@ -318,7 +318,7 @@ export const leaderBoardData = [
   
       "name": "gdg_backlogbusters",
   
-      "trackOne": 1311,
+      "trackOne": 2811,
   
       "color": "blue"
   
@@ -330,7 +330,7 @@ export const leaderBoardData = [
   
       "name": "gdg_codetitans",
   
-      "trackOne": 1307,
+      "trackOne": 2307,
   
       "color": "blue"
   
@@ -342,7 +342,7 @@ export const leaderBoardData = [
   
       "name": "gdg_j++_coders",
   
-      "trackOne": 1295,
+      "trackOne": 2295,
   
       "color": "blue"
   
@@ -354,7 +354,7 @@ export const leaderBoardData = [
   
       "name": "gdg_ninjas",
   
-      "trackOne": 1264,
+      "trackOne": 2264,
   
       "color": "blue"
   
@@ -366,7 +366,7 @@ export const leaderBoardData = [
   
       "name": "gdg_padhai",
   
-      "trackOne": 1263,
+      "trackOne": 3263,
   
       "color": "blue"
   
@@ -378,7 +378,7 @@ export const leaderBoardData = [
   
       "name": "sqldnj",
   
-      "trackOne": 1254,
+      "trackOne": 2254,
   
       "color": "blue"
   
@@ -390,7 +390,7 @@ export const leaderBoardData = [
   
       "name": "gdg_endevour",
   
-      "trackOne": 1250,
+      "trackOne": 2250,
   
       "color": "blue"
   
@@ -402,7 +402,7 @@ export const leaderBoardData = [
   
       "name": "Mishra",
   
-      "trackOne": 1245,
+      "trackOne": 2245,
   
       "color": "blue"
   
@@ -414,7 +414,7 @@ export const leaderBoardData = [
   
       "name": "gdg_theshield",
   
-      "trackOne": 1233,
+      "trackOne": 2233,
   
       "color": "blue"
   
@@ -426,7 +426,7 @@ export const leaderBoardData = [
   
       "name": "gdg_scout",
   
-      "trackOne": 1220,
+      "trackOne": 2220,
   
       "color": "blue"
   
@@ -438,7 +438,7 @@ export const leaderBoardData = [
   
       "name": "hsh",
   
-      "trackOne": 1213,
+      "trackOne": 2213,
   
       "color": "blue"
   
@@ -450,7 +450,7 @@ export const leaderBoardData = [
   
       "name": "gdg404_error",
   
-      "trackOne": 1194,
+      "trackOne": 2194,
   
       "color": "blue"
   
@@ -534,7 +534,7 @@ export const leaderBoardData = [
   
       "name": "gdg_craftysquad",
   
-      "trackOne": 1084,
+      "trackOne": 2284,
   
       "color": "blue"
   
@@ -855,6 +855,83 @@ export const leaderBoardData = [
     "name": "gdg_ogcoders",
 
     "trackOne": 2450,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_gsparx",
+
+    "trackOne": 2700,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_codestars",
+
+    "trackOne": 2600,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_dse",
+
+    "trackOne": 2700,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_codecookers",
+
+    "trackOne": 3010,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_aires",
+
+    "trackOne": 2850,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_spideytechies",
+
+    "trackOne": 2400,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_tranquiltechies",
+
+    "trackOne": 2780,
 
     "color": "blue"
 
