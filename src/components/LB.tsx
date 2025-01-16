@@ -17,7 +17,7 @@ export function LB({ search }: LBProps) {
 		rank: rank(r),
 		name: r.name,
 		gccf: r.trackOne,
-		gen: r.trackTwo,
+	
 	}));
 	return (
 		<div id="leaderboard" className="my-4 w-4/5 max-md:w-[92vw]">
