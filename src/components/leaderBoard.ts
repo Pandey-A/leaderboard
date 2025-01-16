@@ -534,7 +534,7 @@ export const leaderBoardData = [
   
       "name": "gdg_craftysquad",
   
-      "trackOne": 2284,
+      "trackOne": 84,
   
       "color": "blue"
   
