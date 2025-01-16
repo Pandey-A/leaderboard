@@ -54,7 +54,7 @@ export const leaderBoardData = [
   
       "name": "gdg_thesambar's",
   
-      "trackOne": 3855,
+      "trackOne": 3405,
   
       "color": "blue"
   
@@ -126,7 +126,7 @@ export const leaderBoardData = [
   
       "name": "gdgwebweavers",
   
-      "trackOne": 2077,
+      "trackOne": 3277,
   
       "color": "blue"
   
@@ -743,7 +743,7 @@ export const leaderBoardData = [
 
     "name": "gdg_syntaxsurgeons",
 
-    "trackOne": 2800,
+    "trackOne": 0,
 
     "color": "blue"
 
@@ -809,7 +809,7 @@ export const leaderBoardData = [
 
     "name": "gdg_bugbusters",
 
-    "trackOne": 2800,
+    "trackOne": 0,
 
     "color": "blue"
 
@@ -865,7 +865,7 @@ export const leaderBoardData = [
 
     "name": "gdg_gsparx",
 
-    "trackOne": 2700,
+    "trackOne": 0,
 
     "color": "blue"
 
@@ -887,7 +887,7 @@ export const leaderBoardData = [
 
     "name": "gdg_dse",
 
-    "trackOne": 2700,
+    "trackOne": ,
 
     "color": "blue"
 
