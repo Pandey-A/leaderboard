@@ -688,7 +688,7 @@ export const leaderBoardData = [
 
     "name": "gdg_symbiote_squad",
 
-    "trackOne": 2500,
+    "trackOne": 0,
 
     "color": "blue"
 
@@ -699,7 +699,7 @@ export const leaderBoardData = [
 
     "name": "gdg_mdh",
 
-    "trackOne": 2500,
+    "trackOne": 0,
 
     "color": "blue"
 
@@ -887,7 +887,7 @@ export const leaderBoardData = [
 
     "name": "gdg_dse",
 
-    "trackOne": ,
+    "trackOne": 0,
 
     "color": "blue"
 
