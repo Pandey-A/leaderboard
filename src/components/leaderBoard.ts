@@ -721,7 +721,7 @@ export const leaderBoardData = [
 
     "name": "gdg_imposter",
 
-    "trackOne": 2900,
+    "trackOne": 700,
 
     "color": "blue"
 
@@ -940,9 +940,9 @@ export const leaderBoardData = [
   
     "rank": 55,
 
-    "name": "gdg_tranquiltechies",
+    "name": "gdg_venomvanguard",
 
-    "trackOne": 2680,
+    "trackOne": 1580,
 
     "color": "blue"
 
