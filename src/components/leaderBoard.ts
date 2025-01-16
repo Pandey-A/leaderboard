@@ -936,6 +936,17 @@ export const leaderBoardData = [
     "color": "blue"
 
   },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_tranquiltechies",
+
+    "trackOne": 2680,
+
+    "color": "blue"
+
+  },
   
   ];
 
