@@ -909,7 +909,7 @@ export const leaderBoardData = [
 
     "name": "gdg_aires",
 
-    "trackOne": 2850,
+    "trackOne": 550,
 
     "color": "blue"
 
