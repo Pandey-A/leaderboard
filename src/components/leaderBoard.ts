@@ -876,7 +876,7 @@ export const leaderBoardData = [
 
     "name": "gdg_codestars",
 
-    "trackOne": 2600,
+    "trackOne": 0,
 
     "color": "blue"
 
