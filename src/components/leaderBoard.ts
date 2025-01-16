@@ -650,7 +650,7 @@ export const leaderBoardData = [
   
     {
   
-      "rank": 55,
+      
   
       "name": "gdg_11",
   
@@ -659,6 +659,206 @@ export const leaderBoardData = [
       "color": "blue"
   
     }
+  ,
+  {
+  
+    
+
+    "name": "gdg_techtrix",
+
+    "trackOne": 2700,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_threesinisters",
+
+    "trackOne": 3100,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_symbiote_squad",
+
+    "trackOne": 2500,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_mdh",
+
+    "trackOne": 2500,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_tranquiltechies",
+
+    "trackOne": 2800,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_imposter",
+
+    "trackOne": 2900,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_codeJunkies",
+
+    "trackOne": 2200,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_syntaxsurgeons",
+
+    "trackOne": 2800,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_tranquiltechies",
+
+    "trackOne": 2800,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_badcoders",
+
+    "trackOne": 2580,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_Thehackers",
+
+    "trackOne": 2340,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_Codecrusaders",
+
+    "trackOne": 2250,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_echo",
+
+    "trackOne": 2850,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_bugbusters",
+
+    "trackOne": 2800,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_warlogs",
+
+    "trackOne": 2800,
+
+    "color": "blue"
+
+  },
+
+  {
+  
+    
+
+    "name": "gdg_lammacube",
+
+    "trackOne": 2500,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_bitwise",
+
+    "trackOne": 2800,
+
+    "color": "blue"
+
+  },
+  {
+  
+    
+
+    "name": "gdg_ogcoders",
+
+    "trackOne": 2450,
+
+    "color": "blue"
+
+  },
   
   ];
 
