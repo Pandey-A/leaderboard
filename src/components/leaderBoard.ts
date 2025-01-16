@@ -54,7 +54,7 @@ export const leaderBoardData = [
   
       "name": "gdg_thesambar's",
   
-      "trackOne": 3445,
+      "trackOne": 3855,
   
       "color": "blue"
   
@@ -820,7 +820,7 @@ export const leaderBoardData = [
 
     "name": "gdg_warlogs",
 
-    "trackOne": 2800,
+    "trackOne": 0,
 
     "color": "blue"
 
@@ -843,7 +843,7 @@ export const leaderBoardData = [
 
     "name": "gdg_bitwise",
 
-    "trackOne": 2800,
+    "trackOne": 50,
 
     "color": "blue"
 
@@ -943,6 +943,17 @@ export const leaderBoardData = [
     "name": "gdg_venomvanguard",
 
     "trackOne": 1580,
+
+    "color": "blue"
+
+  },
+  {
+  
+    "rank": 55,
+
+    "name": "gdg_techies",
+
+    "trackOne": 2800,
 
     "color": "blue"
 
