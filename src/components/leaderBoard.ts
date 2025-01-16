@@ -318,7 +318,7 @@ export const leaderBoardData = [
   
       "name": "gdg_backlogbusters",
   
-      "trackOne": 2811,
+      "trackOne": 11,
   
       "color": "blue"
   
@@ -832,7 +832,7 @@ export const leaderBoardData = [
 
     "name": "gdg_lammacube",
 
-    "trackOne": 2500,
+    "trackOne": 0,
 
     "color": "blue"
 
