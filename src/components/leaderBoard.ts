@@ -102,7 +102,7 @@ export const leaderBoardData = [
   
       "name": "gdg_404notfound",
   
-      "trackOne": 2119,
+      "trackOne": 300,
   
       "color": "blue"
   
