@@ -798,7 +798,7 @@ export const leaderBoardData = [
 
     "name": "gdg_echo",
 
-    "trackOne": 2850,
+    "trackOne": 50,
 
     "color": "blue"
 
