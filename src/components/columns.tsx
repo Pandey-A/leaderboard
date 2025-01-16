@@ -26,6 +26,6 @@ export const columns: ColumnDef<Columns>[] = [
 	{
 		accessorKey: 'gccf',
 		header: () => <div className="text-center">Points</div>,
-		cell: ({ getValue }) => <div className="text-center text-primary">{+getValue<string>() + 1200}</div>,
+		cell: ({ getValue }) => <div className="text-center text-primary">{+getValue<string>() + 1500}</div>,
 	},
 ];
