@@ -54,7 +54,7 @@ export const leaderBoardData = [
   
       "name": "gdg_thesambar's",
   
-      "trackOne": 3405,
+      "trackOne": 405,
   
       "color": "blue"
   
@@ -126,7 +126,7 @@ export const leaderBoardData = [
   
       "name": "gdgwebweavers",
   
-      "trackOne": 3277,
+      "trackOne": 250,
   
       "color": "blue"
   
@@ -953,7 +953,7 @@ export const leaderBoardData = [
 
     "name": "gdg_techies",
 
-    "trackOne": 2800,
+    "trackOne": 0,
 
     "color": "blue"
 
