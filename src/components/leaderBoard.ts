@@ -54,7 +54,7 @@ export const leaderBoardData = [
   
       "name": "gdg_thesambar's",
   
-      "trackOne": 2245,
+      "trackOne": 3445,
   
       "color": "blue"
   
