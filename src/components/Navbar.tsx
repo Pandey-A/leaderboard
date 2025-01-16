@@ -32,7 +32,7 @@ export function Navbar() {
 			<div className="flex items-center justify-center gap-4">
 				<Burger />
 				<img src={logo} className="App-logo h-16 w-auto" alt="logo" />
-				<h3 className="hidden text-xl font-medium uppercase tracking-wide text-secondary max-md:block">Study Jams</h3>
+				<h3 className="hidden text-xl font-medium uppercase tracking-wide text-secondary max-md:block"></h3>
 			</div>
 			<div className="flex w-2/3 justify-end gap-11 text-xl uppercase">
 				
