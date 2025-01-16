@@ -366,7 +366,7 @@ export const leaderBoardData = [
   
       "name": "gdg_padhai",
   
-      "trackOne": 3263,
+      "trackOne": 263,
   
       "color": "blue"
   
@@ -710,7 +710,7 @@ export const leaderBoardData = [
 
     "name": "gdg_tranquiltechies",
 
-    "trackOne": 2800,
+    "trackOne": 0,
 
     "color": "blue"
 
