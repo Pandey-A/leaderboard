@@ -6,17 +6,6 @@ export const leaderBoardData = [
   
    
   
-    {
-  
-      "rank": 9,
-  
-      "name": "gdg_thesambar's",
-  
-      "trackOne": 405,
-  
-      "color": "blue"
-  
-    },
   
     {
   
