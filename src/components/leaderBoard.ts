@@ -3,17 +3,6 @@ export const leaderBoardData = [
    
   
    
-    {
-  
-      "rank": 3,
-  
-      "name": "gdg_heroes",
-  
-      "trackOne": 2604,
-  
-      "color": "blue"
-  
-    },
   
     {
   
