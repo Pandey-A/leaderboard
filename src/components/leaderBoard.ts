@@ -7,18 +7,7 @@ export const leaderBoardData = [
    
   
   
-    {
-  
-      "rank": 4,
-  
-      "name": "gdg_noevim",
-  
-      "trackOne": 2178,
-  
-      "color": "blue"
-  
-    },
-  
+    
     {
   
       "rank": 5,
