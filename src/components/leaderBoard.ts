@@ -4,17 +4,7 @@ export const leaderBoardData = [
   
    
   
-    {
-  
-      "rank": 2,
-  
-      "name": "gdg_blockbusters",
-  
-      "trackOne": 2290,
-  
-      "color": "blue"
-  
-    },
+   
   
     {
   
