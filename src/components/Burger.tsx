@@ -1,8 +1,7 @@
 import { useRef, useEffect } from "react";
 import { Link } from "./Link";
 
-export function Burger() {
-	const ref = useRef(null);
+
 
 	useEffect(() => {
 		const anchors = document.querySelectorAll(".links a");
